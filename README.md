@@ -41,6 +41,11 @@ The command for installing pygame is "pip install pygame" runit in the terminal 
 
 The increasing difficulty across 10 levels adds a sense of progression and challenge, keeping players motivated to improve their skills. As the computer car becomes faster, it pushes players to adapt and become more strategic in their racing. With varying levels of difficulty, players will likely return to beat their previous times or outdo the computer car(Bot) in higher levels, enhancing replay value.
 
+# Reference
+
+The reference of this project is taken from the Github repo: https://github.com/techwithtim/Pygame-Car-Racer
+Very nicely explained easy to understand code structure.
+
 
 
 
