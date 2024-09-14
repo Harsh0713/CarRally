@@ -16,6 +16,11 @@ Pygame: A Python library used for building the game, handling graphics, sounds, 
 Collision Detection: Techniques used to manage interactions between player car, AI car, and obstacles.
 Timers and Event Handling: For managing game pace, level progression, and controlling the AI car's increasing speed across levels.
 
+# Setup
+
+Downloadd the zip file of the code and extract it.
+Open the code in VsCode and run it.
+
 # Output
 
 Initially the game will look like this, after pressing any key the game will begin.
